@@ -4,7 +4,7 @@ BLE BT;
 
 void setup(void) {
   Serial.begin(115200);
-  Serial.println("Serial Begin");
+  Serial.println("Serial Begin with version 2.0");
   Serial.println();
   
   Serial.print("HW v");
